@@ -14,5 +14,5 @@
 				header("Location: ../pag/pagstart.html");
 			}
 		}
-	} 
+	}
 ?>
