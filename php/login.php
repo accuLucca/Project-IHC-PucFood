@@ -14,5 +14,9 @@
 				header("Location: ../pag/pagstart.html");
 			}
 		}
-	} 
+	}
+print "<script> alert('Login ou senha incorretos.'); window.history.go(-1); </SCRIPT>\n";
+
+
+		
 ?>

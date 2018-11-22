@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <users>
 	<user>
+		<email>augustofoss@gmail.com</email>
+		<password>augusto123</password>
+	</user>
+	<user>
 		<email>itamar.e.junior@gmail.com</email>
 		<password>itamar123</password>
 	</user>
 	<user>
-		<email>lbulara@gmail.com</email>
-		<password>bulara123</password>
-	</user>
-	<user>
 		<email>leonobrestati@gmail.com</email>
 		<password>leo123</password>
+	</user>
+	<user>
+		<email>lbulara@gmail.com</email>
+		<password>bulara123</password>
 	</user>
 </users>
 
