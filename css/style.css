@@ -39,8 +39,8 @@ button {
 }
 
 button:hover {
-    background-color: transparent;
-    color: green;
+    background-color: white;
+    color: #982439;
     /* STILL NEED TO CHOSSE GOOD COLOR */
     cursor: pointer;
     font-size: 50px;
