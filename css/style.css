@@ -17,6 +17,11 @@ html {
     background-attachment: fixed;
 }
 
+#logo {
+    border-radius: 5px;
+    border: 5px solid white;
+}
+
 .center {
     display: flex;
     justify-content: center;
@@ -38,10 +43,39 @@ button {
     font-size: 30px;
 }
 
-button:hover {
-    background-color: white;
-    color: #982439;
-    /* STILL NEED TO CHOSSE GOOD COLOR */
+#blue:hover {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-size: 50px;
+
+}
+
+#blue2:hover {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    font-size: 35px;
+}
+
+#yellow:hover {
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
+    font-size: 50px;
+
+}
+
+#orange:hover {
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    font-size: 50px;
+}
+
+#red:hover {
+    background-color: red;
+    color: white;
     cursor: pointer;
     font-size: 50px;
 

@@ -11,7 +11,7 @@
 				$sucesso == TRUE;
 				session_start();
 				$_SESSION["email"] = $email;
-				header("Location: ../pag/pagstart.html");
+				header("Location: ../pag/initialpag.html");
 			}
 		}
 	}
