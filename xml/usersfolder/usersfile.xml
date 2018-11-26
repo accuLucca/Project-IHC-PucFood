@@ -16,5 +16,9 @@
 		<email>lbulara@gmail.com</email>
 		<password>bulara123</password>
 	</user>
+	<user>
+		<email>admin</email>
+		<password>123</password>
+	</user>
 </users>
 
