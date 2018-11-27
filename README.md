@@ -1,10 +1,8 @@
 # Projeto-IHC
-Projeto para a disciplina de IHC
+Project for IHC discipline
 
+Collaborators:
 
-Integrantes:
-
-Augusto Foss
-Itamar Sprendor
-Leonardo Nobre
 Lucca Bulara
+
+Leonardo Nobre
